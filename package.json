@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-remove-import-export",
+  "name": "babel-plugin-ignore-import-export",
   "version": "1.0.0-alpha",
   "description": "A simple Babel plugin to remove import & export statements of your files",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patriciunista/babel-plugin-remove-import-export.git"
+    "url": "git+https://github.com/patriciunista/babel-plugin-ignore-import-export.git"
   },
   "keywords": [
     "babel",
@@ -18,9 +18,9 @@
   "author": "Patriciu Nista",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patriciunista/babel-plugin-remove-import-export/issues"
+    "url": "https://github.com/patriciunista/babel-plugin-ignore-import-export/issues"
   },
-  "homepage": "https://github.com/patriciunista/babel-plugin-remove-import-export#readme",
+  "homepage": "https://github.com/patriciunista/babel-plugin-ignore-import-export#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",
