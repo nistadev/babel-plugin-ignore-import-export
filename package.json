@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-ignore-import-export",
-  "version": "1.0.0-alpha",
-  "description": "A simple Babel plugin to remove import & export statements of your files",
+  "version": "1.0.0",
+  "description": "A simple Babel plugin to ignore import, export default and named exports of your files",
   "main": "src/index.js",
   "scripts": {
     "test": "jest ./test"
@@ -13,7 +13,8 @@
   "keywords": [
     "babel",
     "babel-plugin",
-    "remove-import-export"
+    "remove-import-export",
+    "ignore-import-export"
   ],
   "author": "Patriciu Nista",
   "license": "MIT",

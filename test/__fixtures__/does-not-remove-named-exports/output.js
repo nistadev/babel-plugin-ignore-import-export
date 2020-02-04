@@ -1,3 +1,3 @@
 // should not be removed
-export const foo = "bar";
+const foo = "bar";
 foo && foo.isBar();
